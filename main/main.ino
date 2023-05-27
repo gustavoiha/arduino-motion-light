@@ -8,7 +8,7 @@ const int ledPin = 3;
 unsigned long lastMotionTime = 0;
 
 // Duration in milliseconds for keeping the light on
-const unsigned long lightOnDuration = 30000; // 30 seconds
+const unsigned long lightOnDuration = 90000; // 90 seconds
 
 void setup() {
   // Initialize serial communication
